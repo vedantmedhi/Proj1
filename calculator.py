@@ -8,6 +8,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+
 def calculator():
     print("this all about calculation")
 
