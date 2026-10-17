@@ -9,14 +9,7 @@ logging.basicConfig(
 )
 
 def calculator():
-    print("\n===== ADVANCED PYTHON CALCULATOR =====")
-    print("1. Addition (+)")
-    print("2. Subtraction (-)")
-    print("3. Multiplication (*)")
-    print("4. Division (/)")
-    print("5. Power (**)")
-    print("6. Modulus (%)")
-    print("7. Exit")
+    print("this all about calculation")
 
     while True:
         try:
